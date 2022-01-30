@@ -1,6 +1,14 @@
 # base_app
 
 A new Flutter project.
+## Reminder
+
+When cloning the repo for the first time:
+
+Goto android/app/src.
+Make sure the directories debug, main and profile are present.
+debug might be missing. If so, create the debug dir and copy the AndroidManifest.xml file 
+from profile into debug.
 
 ## Getting Started
 
